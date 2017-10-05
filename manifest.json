@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Weather Extension",
     "version": "1.0",
-    "description": "A weather extension test case!",
+    "description": "An extension to see the current temperature and weather condion of your location",
 
     "icons": {
         "48": "img/temp.png",
